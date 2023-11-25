@@ -1,4 +1,4 @@
-module github.com/zumosik/grpc_protos_0
+module github.com/zumosik/grpc_protos_01
 
 go 1.21.0
 
